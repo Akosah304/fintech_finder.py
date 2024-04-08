@@ -17,17 +17,17 @@ The following libraries are used in this analysis:
 
 ### Ganache Screenshots
 
-![Ganache screen](Starter_Code/Images/ganache shot 2.png)
+![Ganache screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/ganache%20shot%202.png)
 
-![Ganache screen](Starter_Code/Images/ganache shot1.png)
+![Ganache screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/ganache%20shot1.png)
 
-![Ganache screen](Starter_Code/Images/ganache shot 6.png)
+![Ganache screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/ganache%20shot%206.png)
 
-![Ganache screen](Starter_Code/Images/ganache shot 5.png)
+![Ganache screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/ganache%20shot%205.png)
 
 
 ### Streamlit Screenshots
 
-![Screenshot screen](Starter_Code/Images/streamlit shot1.png)
+![Screenshot screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/streamlit%20shot1.png)
 
-![Screenshot screen](Starter_Code/Images/streamlit shot 2.png)
+![Screenshot screen](https://github.com/Akosah304/fintech_finder.py/blob/main/Starter_Code/Images/streamlit%20shot%202.png)
