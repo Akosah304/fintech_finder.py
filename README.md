@@ -1,8 +1,8 @@
 # fintech_finder.py
 
-### Purpose of Project
+### Purpose
 
-The main purpose of this project is to demonstrate an ability build a cryptocurrency wallet as well as a program to find, contract, and pay fintech professionals for projects. Ganache was used to establish test ethereum accounts to demontrate capabilities
+The principal aim of this challenge is to showcase the capacity to construct a cryptocurrency wallet and an application for locating, hiring, and compensating fintech experts for tasks. Test Ethereum accounts were created using Ganache to demonstrate capabilities.
 
 ### Technologies
 
